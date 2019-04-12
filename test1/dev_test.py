@@ -11,5 +11,3 @@ a = 'add something'
 b = 'add by xuchaoa'
 
 c = 'add by xuchaoa'
-
-c = 'add by xuchaoao'
