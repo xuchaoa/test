@@ -8,11 +8,3 @@ hits = 'dev commit test'
 
 a = 'x by xuchaoa'
 
-add by xuchaoa on feature
-
-
-add by xuchaoa on feature
-
-
-
-new add commit
