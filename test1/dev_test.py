@@ -6,6 +6,4 @@
 
 hits = 'dev commit test'
 
-a = 'add something by xuchaoa'
-
 a = 'add something'
