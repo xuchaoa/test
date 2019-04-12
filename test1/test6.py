@@ -28,3 +28,8 @@ print(b)
 print(data.encode('utf-8'))
 import time
 print(time.strftime("%X"))
+
+print(sys.argv)
+a = sys.argv
+print(a)
+print(os.path.basename(a[0]))
