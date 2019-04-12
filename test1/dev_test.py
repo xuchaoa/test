@@ -5,3 +5,5 @@
 
 
 hits = 'dev commit test'
+
+a = 'add something by xuchaoa'
